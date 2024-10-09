@@ -77,3 +77,44 @@
     >  01-jan-2030
     > </pre>
    <a href="https://github.com/zone-of-ed/python-problems/blob/main/input/09.py" target="_blank">solution</a>
+
+## Input
+
+1. Write a program that creates a variable named user_name, assigns your name as a string to it, and prints the variable.  
+    >    **Output:**  
+    >    <pre style="background-color: #303135; padding: 5px;">
+    >     zone of ed
+    >    </pre>
+    <a href="https://github.com/zone-of-ed/python-problems/blob/main/input/09.py" target="_blank">solution</a>
+
+2. Write a program that creates a variable named age, assigns your age as a number to it, and prints the variable.  
+    >    **Output:**  
+    >    <pre style="background-color: #303135; padding: 5px;">
+    >     20
+    >    </pre>
+    <a href="https://github.com/zone-of-ed/python-problems/blob/main/input/09.py" target="_blank">solution</a>
+
+3. Write a program that creates a variable named gravity, assigns 9.81 as a value to it, and prints the variable.  
+    >    **Output:**  
+    >    <pre style="background-color: #303135; padding: 5px;">
+    >     9.81
+    >    </pre>
+    <a href="https://github.com/zone-of-ed/python-problems/blob/main/input/09.py" target="_blank">solution</a>
+
+4. Write a program that creates a variable named birth_year, assigns your birth year as a number to it, and prints the variable.  
+    >    **Output:**  
+    >    <pre style="background-color: #303135; padding: 5px;">
+    >     3000
+    >    </pre>
+    <a href="https://github.com/zone-of-ed/python-problems/blob/main/input/09.py" target="_blank">solution</a>
+
+5. Write a program that creates variables for user_name, age, email ID, phone_number, and date_of_birth, and assigns your details to them.  
+    >    **Output:**  
+    >    <pre style="background-color: #303135; padding: 5px;">
+    >     username: zone of ed
+    >     age: 20
+    >     email id: zoneofed@gmail.com
+    >     phone number: 9876543210
+    >     date of birth: 22/01/2050
+    >    </pre>
+    <a href="https://github.com/zone-of-ed/python-problems/blob/main/input/09.py" target="_blank">solution</a>

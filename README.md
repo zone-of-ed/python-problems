@@ -54,34 +54,34 @@
 7. Write a program that prints the following output:  
     > **Output:**  
     > <pre style="background-color: #303135; padding: 5px;">
-    >   *
-    >  ***
-    > *****
+    >    *
+    >   ***
+    >  *****
     > </pre>
     <a href="https://github.com/zone-of-ed/python-problems/blob/main/print/07.py" target="_blank">solution</a>
  
 8. Write a program that prints the following output:  
     > **Output:**  
     > <pre style="background-color: #303135; padding: 5px;">
-    > *****
-    >  ***
-    >   *
+    >  *****
+    >   ***
+    >    *
     > </pre>
    <a href="https://github.com/zone-of-ed/python-problems/blob/main/print/08.py" target="_blank">solution</a>
 
 9. Write a program that print your date of birth.
     > **Output:**  
     > <pre style="background-color: #303135; padding: 5px;">
-    > 01-jan-2030
+    >  01-jan-2030
     > </pre>
    <a href="https://github.com/zone-of-ed/python-problems/blob/main/print/09.py" target="_blank">solution</a>
 
 10. Write a program that print your name, age, and country on separate lines.
     > **Output:**  
     > <pre style="background-color: #303135; padding: 5px;">
-    > My name is zoneofed
-    > Iam 10 years old
-    > Iam from India
+    >  My name is zoneofed
+    >  Iam 10 years old
+    >  Iam from India
     > </pre>
    <a href="https://github.com/zone-of-ed/python-problems/blob/main/print/10.py" target="_blank">solution</a>
 
@@ -90,7 +90,7 @@
 1. Write a program that create a variable named user_name, assign your name as a string to it, and print the variable.  
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    zone of ed
+    >     zone of ed
     >    </pre>
    
     > ***Hint:***  
@@ -103,7 +103,7 @@
 2. Write a program that create a variable named age, assign your age as a number to it, and print the variable.  
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    20
+    >     20
     >    </pre>
    
     > ***Hint:***  
@@ -116,14 +116,14 @@
 3. Write a program that create a variable named gravity, assign 9.81 as a value to it, and print the variable.  
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    9.81
+    >     9.81
     >    </pre>
     <a href="https://github.com/zone-of-ed/python-problems/blob/main/variables/03.py" target="_blank">solution</a>
 
 4. Write a program that create a variable named birth_year, assign your birth year as a number to it, and print the variable.  
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    3000
+    >     3000
     >    </pre>
    
     > ***Hint:***  
@@ -136,11 +136,11 @@
 5. Write a program that creates variables for username, age, email ID, phone number, and date of birth, and assigns your details to them.  
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    username: zone of ed
-    >    age: 20
-    >    email id: zoneofed@gmail.com
-    >    phone number: 9876543210
-    >    date of birth: 22/01/2050
+    >     username: zone of ed
+    >     age: 20
+    >     email id: zoneofed@gmail.com
+    >     phone number: 9876543210
+    >     date of birth: 22/01/2050
     >    </pre>
    
      > ***Hint:***  
@@ -160,9 +160,9 @@
 
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    value of a is 1
-    >    value of b is 2
-    >    value of c is 3
+    >     value of a is 1
+    >     value of b is 2
+    >     value of c is 3
     >    </pre>
     <a href="https://github.com/zone-of-ed/python-problems/blob/main/variables/06.py" target="_blank">solution</a>
 
@@ -175,8 +175,8 @@
 
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    a: 2
-    >    b: 1
+    >     a: 2
+    >     b: 1
     >    </pre>
     <a href="https://github.com/zone-of-ed/python-problems/blob/main/variables/07.py" target="_blank">solution</a>
 
@@ -189,8 +189,8 @@
 
     >    **Output:**  
     >    <pre style="background-color: #303135; padding: 5px;">
-    >    a: 2
-    >    b: 1
+    >     a: 2
+    >     b: 1
     >    </pre>
     <a href="https://github.com/zone-of-ed/python-problems/blob/main/variables/08.py" target="_blank">solution</a>
 
@@ -229,7 +229,7 @@
 3. Write a program that asks the user hobbies as input and print the hobbies.   
     > **Input:**  
     > <pre style="background-color: #303135; padding: 5px;">
-    > Watching TV, Cricket, Sleeping
+    >  Watching TV, Cricket, Sleeping
     > </pre> 
     
     > **Output:**  
@@ -247,8 +247,8 @@
 4. Write a program that asks the user first name and last name as inputs and prints both the first name and last name on one line.   
     > **Input:**  
     > <pre style="background-color: #303135; padding: 5px;">
-    > Surya
-    > Chandra
+    >  Surya
+    >  Chandra
     > </pre> 
     
     > **Output:**  
@@ -266,8 +266,8 @@
 5. Write a program that asks the user for their favorite movie and its director.   
     > **Input:**  
     > <pre style="background-color: #303135; padding: 5px;">
-    > Batman Begins
-    > Christopher Nolan
+    >  Batman Begins
+    >  Christopher Nolan
     > </pre> 
     
     > **Output:**  

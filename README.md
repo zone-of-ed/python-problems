@@ -158,12 +158,12 @@
     > 3
     > </pre> 
 
-    >    **Output:**  
-    >    <pre style="background-color: #303135; padding: 5px;">
-    >     value of a is 1
-    >     value of b is 2
-    >     value of c is 3
-    >    </pre>
+    > **Output:**  
+    > <pre style="background-color: #303135; padding: 5px;">
+    > value of a is 1
+    > value of b is 2
+    > value of c is 3
+    > </pre>
     <a href="https://github.com/zone-of-ed/python-problems/blob/main/variables/06.py" target="_blank">solution</a>
 
 7. Write a program that swap the values of two variables.  

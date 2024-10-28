@@ -7,7 +7,6 @@
     > Hello World
     > </pre> 
     <a href="https://github.com/zone-of-ed/python-problems/blob/main/print/01.py" target="_blank">solution</a>
-    [solution2](./print/01.py)
 
 2. Write a program that print the number 12345 as output.
     > **Output:**  
